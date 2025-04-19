@@ -1,4 +1,4 @@
-# Proyecto Capstone - Arquitectura Cliente/Servidor con Flask
+# Actividad: Módulo 1 - Lección 2
 
 Este repositorio contiene un ejemplo práctico de un servidor Flask diseñado como parte de la actividad sobre Arquitectura Cliente/Servidor y diseño de REST APIs. Incluye dos rutas principales y un diagrama básico de arquitectura del sistema.
 
